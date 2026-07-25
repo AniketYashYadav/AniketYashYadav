@@ -34,3 +34,7 @@
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
 </p>
+
+### GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AniketYashYadav&bg_color=000000&color=ffffff&line=8a2be2&point=8a2be2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
