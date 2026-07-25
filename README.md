@@ -8,6 +8,7 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 </p>
 
