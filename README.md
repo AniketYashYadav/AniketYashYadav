@@ -6,6 +6,7 @@
   </a>
 </p>
 
+
 ### Socials
 
 <p align="left">
@@ -34,6 +35,7 @@
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
 </p>
+
 
 ### GitHub Activity
 
