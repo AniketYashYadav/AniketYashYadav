@@ -45,7 +45,7 @@
 
 <br><br>
 
-### Activity Graph
+### GitHub Activity Graph
 <hr size="1">
 
 <p align="center">
