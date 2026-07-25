@@ -1,6 +1,6 @@
 ### Architecting AI & Core Systems
 
-<p align="left">
+<p align="centre">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,docker,cpp,vscode" alt="Tech Stack" />
   </a>
@@ -9,7 +9,7 @@
 
 ### Socials
 
-<p align="left">
+<p align="centre">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aniketyadav-" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -39,4 +39,6 @@
 
 ### GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AniketYashYadav&bg_color=000000&color=ffffff&line=8a2be2&point=8a2be2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketYashYadav&bg_color=000000&color=ffffff&line=8a2be2&point=8a2be2&hide_border=true&custom_title=Activity%20Graph" alt="GitHub Activity Graph" />
+</p>
