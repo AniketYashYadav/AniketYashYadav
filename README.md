@@ -44,11 +44,3 @@
   </a>
 </p>
 
-
-
-### GitHub Activity Graph
-<hr size="1">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketYashYadav&bg_color=000000&color=ffffff&line=8a2be2&point=8a2be2&hide_border=true&custom_title=Activity%20Graph" alt="GitHub Activity Graph" />
-</p>
