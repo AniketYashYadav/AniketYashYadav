@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="78" width="78" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="78" width="78" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="58", width="68" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="58", width="68" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;&nbsp;
