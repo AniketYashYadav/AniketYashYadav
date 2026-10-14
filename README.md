@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:pandas.svg?color=white" alt="Pandas" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:pandas.svg" alt="Pandas" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;&nbsp;
