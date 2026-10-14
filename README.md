@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;&nbsp;
